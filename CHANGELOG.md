@@ -3,8 +3,16 @@ All notable changes to this project will be documented in this file[^1].
 
 ## [Unreleased]
 
+## [2.83.0] - 2023-10-26
+### Fixed
+- total counts for /api/v1/items
+
+## [2.82.0] - 2023-10-19
 ### Changed
 - default sort for /api/v1/items
+
+### Fixed
+- security issue in @babel/traverse indetified by dependabot
 
 ## [2.81.0] - 2023-10-12
 ### Changed
